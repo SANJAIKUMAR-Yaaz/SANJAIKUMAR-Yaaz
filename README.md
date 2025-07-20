@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm SANJAIKUMAR A</h1>
-<h3 align="center">ECE STUDENT | PASSIONATE ABOUT VLSI DESIGN | RELENTLESS LEARNER</h3>
+<h3 align="center">
+  Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align:middle;" alt="waving hand" /> I'm 
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaikumar-yaaz&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaikumar-yaaz" /> </p>
+
+<h1 align="center">SANJAIKUMAR A</h1>
+<h2 align="center">ECE STUDENT | PASSIONATE ABOUT VLSI DESIGN | RELENTLESS LEARNER</h2>
+
 
 - 🔧 I’m currently working on [SK13](@Sanamamikumar.xzz)
 
@@ -27,3 +31,4 @@
 <p><a href="https://ko-fi.com/JHAI"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="JHAI" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaikumar-yaaz&show_icons=true&locale=en&layout=compact" alt="sanjaikumar-yaaz" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanjaikumar-yaaz&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaikumar-yaaz" /> </p>
