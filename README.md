@@ -7,7 +7,12 @@
 <h2 align="center">ECE STUDENT | PASSIONATE ABOUT VLSI DESIGN | RELENTLESS LEARNER</h2>
 
 
-- 🔧 I’m currently working on [SK13](@Sanamamikumar.xzz)
+
+<h3 align="left">ABOUT ME </h3>
+<p> I’m a multi-skilled and adaptable ECE student comfortable working across both hardware and software. I’ve built projects using Verilog, Python, and C++, and explored areas like web development, VLSI, and PCB design. I thrive on learning new technologies and solving practical engineering problems with efficiency and creativity.</p>
+
+
+ I’m VI Year ECE STUDENT 
 
 - 📘 I’m currently learning **PCB DESIGN**
 
@@ -16,10 +21,6 @@
 - 📫 How to reach me **sanjanasanjaikumar@gmail.com**
 
 - 🏍️ Sports **KHO KHO**
-
-
-<h3 align="left">ABOUT ME </h3>
-<p> I’m a multi-skilled and adaptable ECE student comfortable working across both hardware and software. I’ve built projects using Verilog, Python, and C++, and explored areas like web development, VLSI, and PCB design. I thrive on learning new technologies and solving practical engineering problems with efficiency and creativity.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
