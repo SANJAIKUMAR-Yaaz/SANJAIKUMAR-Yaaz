@@ -17,6 +17,10 @@
 
 - 🏍️ Sports **KHO KHO**
 
+
+<h3 align="left">ABOUT ME </h3>
+<p> I’m a multi-skilled and adaptable ECE student comfortable working across both hardware and software. I’ve built projects using Verilog, Python, and C++, and explored areas like web development, VLSI, and PCB design. I thrive on learning new technologies and solving practical engineering problems with efficiency and creativity.</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanjaikumar a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjaikumar a" height="30" width="40" /></a>
